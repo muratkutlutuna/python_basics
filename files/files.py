@@ -20,6 +20,6 @@
 
 # "x": (Create) olusturma. Dosya zaten varsa hata verir. FileExistsError: [Errno 17] File exists: 'newfile2.txt'
 
-file = open("newfile2.txt", "x",encoding='utf-16')
+# file = open("newfile2.txt", "x",encoding='utf-16')
 
 # "r": (Read) okuma. varsayilan. dosya konumda yoksa hata verir.
