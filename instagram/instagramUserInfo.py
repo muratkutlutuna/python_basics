@@ -1,0 +1,6 @@
+email = "lxzinuqtetqfofsjsy@tmmwj.net"
+password = "R2KKSuhQ3MV9kfA"
+firstname = "keidbu"
+lastname = "wsozjshmecia"
+username = "beevan2022"
+birthdate = "01.01.1995"
